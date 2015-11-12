@@ -5,6 +5,9 @@
 
 namespace util
 {
+  // NOTE:
+  // This code was taken from https://github.com/erikfrey/themas.
+
   using std::swap;
 
   /**
